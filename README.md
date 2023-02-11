@@ -21,9 +21,10 @@ the setup of IK Rigs for characters imported from Reallusion's Character Creator
   - You can edit the default pose to turn down all finger tips by about 20 degrees and tilt the shoulders down about 10 degrees.
   - TODO: Create some sort of helper for auto-correcting the default pose.
 
-## Installation
+## Installation from Source
 
 - Under the "Plugins" folder in your project, run the following command in your OS command prompt:
 ```
 git clone https://github.com/Vortex-Basis-LLC/Unreal-VBG_EditorRigTools.git VBG_EditorRigTools
 ```
+- Build solution prior to opening your Unreal project or use CTRL+ALT+F11 to trigger Live Coding compile with UE open.
