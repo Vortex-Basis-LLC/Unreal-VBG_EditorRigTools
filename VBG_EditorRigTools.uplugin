@@ -1,0 +1,23 @@
+﻿{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "VBG_EditorRigTools",
+	"Description": "Editor tools for rigging",
+	"Category": "Other",
+	"CreatedBy": "Vortex Basis, LLC",
+	"CreatedByURL": "https://vortexbasis.com",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "VBG_EditorRigTools",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	]
+}
