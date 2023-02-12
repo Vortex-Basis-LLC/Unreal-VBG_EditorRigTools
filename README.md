@@ -7,7 +7,7 @@ the setup of IK Rigs for characters imported from Reallusion's Character Creator
 
 - Create "IK Rig" for your character's skeletal mesh.
 - Right-click on the "IK Rig". Click "Scripted Asset Actions" / "IK Rig" / "Setup UE4-Style IK Rig".
-  - The plugin will then attempt to setup all required bone chains, the FKIK solver, and associated goals.
+  - The plugin will then attempt to setup all required bone chains, the FBIK solver, and associated goals.
 
 ## Supported Unreal Versions
 - This has only been tested on UE 5.1.1.
