@@ -3,6 +3,8 @@
 This plugin tries to configure an IK Rig based on a standard UE4 mannequin skeleton. The main target use case is speeding up 
 the setup of IK Rigs for characters imported from Reallusion's Character Creator.
 
+Original Blog Post: https://blog.vortexbasis.com/auto-setup-ik-rig-in-ue5-for-reallusion-character-creator-models
+
 ## General Usage
 
 - Create "IK Rig" for your character's skeletal mesh.
