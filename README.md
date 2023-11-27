@@ -1,3 +1,7 @@
+# NOTE: Currently incompatible with Unreal 5.2+
+This plugin was originally written for UE 5.1.1. The class names in use changed in 5.2, so this plugin will not work as-is on newer versions, but
+the general principles likely remain the same.
+
 # VBG Editor Rig Tools
 
 This plugin tries to configure an IK Rig based on a standard UE4 mannequin skeleton. The main target use case is speeding up 
