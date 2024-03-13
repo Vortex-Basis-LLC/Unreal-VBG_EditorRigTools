@@ -1,3 +1,5 @@
+# NOTE: Unreal 5.4 is supposed to finally have the same capability built-in to auto-setup the bone chains and IK rig.
+
 # NOTE: Currently incompatible with Unreal 5.2+
 This plugin was originally written for UE 5.1.1. The class names in use changed in 5.2, so this plugin will not work as-is on newer versions, but
 the general principles likely remain the same.
